@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Here is Freeman's homepage.
+
+I'm a programming and art lover.
 <!--
 **DanielLiu1123/danielliu1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 Keep studying.
+
+🍃 Keep programming.
+
+🌟 Keep thinking.
+
+🤝 Learn from good people.
+
+
