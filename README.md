@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 🌟 Keep thinking.
 
-🤝 Learn from good people.
+🍎 Keep creating.
 
 
